@@ -6,19 +6,47 @@ body{
 }
 
 div#title{
-	    background: rgb(179,179,179);
+	    background:  rgb(255,78,0);
 		font-size: 1.3em;
 		font-family: "微软雅黑";
 		font-weight: bolder;
 		color: white;
+
+
+    border: 1px solid rgb(179,179,179);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+    padding:1px;
+    margin: 10px;
 }
 
 .part1{
-	background-color: white;
-	font-family: "微软雅黑";
+    background: #87CEEB;
+    font-family: "微软雅黑";
+
+    border: 1px solid rgb(179,179,179);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    padding:10px;
+    margin: 10px;
 }
 
 .part2{
-	background: rgb(230,230,230);
-	font-family: "微软雅黑";
+    background: rgb(255,132,0);
+    font-family: "微软雅黑";
+    color: rgb(27,27,27);
+
+	border: 1px solid rgb(179,179,179);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    padding:10px;
+    margin: 10px;
 }
